@@ -22,7 +22,7 @@ Estimated Time: 15 minutes
 
 
 
-## Task 2: Generate an Authentication Token to log in to the Oracle Cloud Container Registry
+## Task 2: Migrate the Helidom MicroProfile application to Helidon 4
 
 
 

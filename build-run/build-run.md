@@ -23,14 +23,14 @@ To run this lab, you must have:
 * Oracle Cloud Account
 * Completed the Lab 1, which install the requied jdk and maven.
 
-## Task 1: Building and Running the Nima application
+## Task 1: Build and Run the Nima application
 
 
 
-## Task 2: Building and Running the Reactive application
+## Task 2: Build and Run the Reactive application
 
 
-## Task 3: Analysing the simplicity of the Nima application
+## Task 3: Analyse the simplicity of the Nima application
 
 
 ## Acknowledgements

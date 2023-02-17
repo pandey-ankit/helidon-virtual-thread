@@ -25,7 +25,13 @@ Code Editor's direct integration with Cloud Shell allows you access to the Graal
 
 ## Task 1: Setup the Code Editor
 
+1. In Cloud Console, click the Code Editor icon as shown.
 
+2. In Code Editor, click Terminal -> New Terminal.
+
+3. Copy and paste the below command in the terminal, to create helidon-project folder.
+   ```bash
+   <copy>mkdir -p ~/helidon-project</copy>
 
 
 ## Task 2: Download the required Maven and JDK version
