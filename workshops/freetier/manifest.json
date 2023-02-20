@@ -16,10 +16,6 @@
             "filename": "../../setup-environment/setup-environment.md"
         },
         {
-            "title": "Lab 1A: Run the lab at your laptop",
-            "filename": "../../laptop-setup/laptop-setup.md"
-        },
-        {
             "title": "Lab 2: Build and run the application",
             "filename": "../../build-run/build-run.md"
         },
