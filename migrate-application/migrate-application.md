@@ -54,7 +54,6 @@ Estimated Time: 15 minutes
     <copy>cd myproject
     mvn clean package</copy>
     ```
-    ![build project](images/build-project.png)
     > You should see *BUILD SUCCESS* at the end of the execution of this command.
 
 12. Copy and paste the following command into the terminal, to run this application. You will see an output similar to that shown in the below screenshot.
