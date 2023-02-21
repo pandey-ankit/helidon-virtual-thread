@@ -39,8 +39,7 @@ Estimated Time: 15 minutes
 7. Click *File* -> *Upload Files*. 
     ![Upload Files](images/upload-files.png)
 
-8. Select the downloaded *myproject.zip* file and click *Open*.
-    > You will see *myproject.zip* file under *docs* folder.
+8. You will see *myproject.zip* file under *docs* folder.
     ![Zip File](images/zip-file.png)
 
 9. copy and paste the following command to unzip the file.

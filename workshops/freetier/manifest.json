@@ -12,8 +12,12 @@
             "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/cloud-login.md"
         },
         {
-            "title": "Lab 1: Setup the environment",
+            "title": "Lab 1: Setup the environment in OCI",
             "filename": "../../setup-environment/setup-environment.md"
+        },
+        {
+            "title": "Lab 1A: Setup the environment in your laptop",
+            "filename": "../../laptop-setup/laptop-setup.md"
         },
         {
             "title": "Lab 2: Build and run the application",
